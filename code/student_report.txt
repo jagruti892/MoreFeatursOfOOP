@@ -1,0 +1,5 @@
+DCST Student NIRF Record
+Student ID : 102
+Name       : Rahul
+Program    : BCA
+Activities : [Technical Seminar, Hackathon, NIRF Awareness Program]
